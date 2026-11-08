@@ -23,3 +23,6 @@
 
 .item-card{touch-action:none}.item-placeholder{border:2px dashed #b99a73;border-radius:13px;background:#eee5d8aa;min-width:120px}.item-drag-ghost{position:fixed;z-index:1000;pointer-events:none;opacity:.92;box-shadow:0 10px 28px #28251f33;transform:scale(1.03)}.item-card.reorder-source{opacity:.35}
 
+
+.item-card.reorder-source{opacity:0;pointer-events:none}
+
