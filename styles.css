@@ -26,3 +26,6 @@
 
 .item-card.reorder-source{opacity:0;pointer-events:none}
 
+
+.item-card.reorder-source{pointer-events:auto;opacity:.2}
+
