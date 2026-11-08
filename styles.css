@@ -11,3 +11,9 @@
 
 .invoice-item-add{flex:1;text-align:left;display:flex;align-items:center;min-height:44px;padding:4px;border:0;background:transparent;color:inherit;font:inherit;cursor:pointer;border-radius:8px}.invoice-item-add:hover,.invoice-item-add:active{background:#f3ede3}.invoice-item input{flex:0 0 84px}
 
+
+.custom-invoice-entry{display:grid;grid-template-columns:1fr 1fr;gap:8px;border:1px solid #e2d9cc;border-radius:10px;padding:12px;margin:12px 0}.custom-invoice-entry legend{font-size:12px;font-weight:700;color:#8c6d50;padding:0 5px}.custom-invoice-entry label{margin:0;font-size:11px}.custom-invoice-entry input{padding:9px;font-size:13px}.custom-invoice-entry button{grid-column:1/-1;justify-self:start}
+
+
+.custom-description-label{grid-column:1/-1}
+
